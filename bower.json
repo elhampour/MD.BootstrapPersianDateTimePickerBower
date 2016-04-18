@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "jQurye": "2.2.2"
+    "jQuery": "2.2.2"
   },
   "moduleType": [
     "globals"
