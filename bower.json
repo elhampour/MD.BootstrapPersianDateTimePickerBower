@@ -1,0 +1,28 @@
+{
+  "name": "MD.BootstrapPersianDateTimePickerBower",
+  "authors": [
+    "Ehsan Elhampour <ehsan.elhampour@gmail.com>"
+  ],
+  "description": "This is the package for having persian datetime picker.",
+  "main": [
+    "js/jalali.js",
+	"js/jquery.Bootstrap-PersianDateTimePicker.min.js",
+	"css/jquery.Bootstrap-PersianDateTimePicker.min.css"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jQurye": "2.2.2"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
